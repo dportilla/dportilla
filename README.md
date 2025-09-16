@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dportilla
 - 👀 I’m interested in javascript - React.js - React Native - NodeJs - Python 
-- 🌱 I’m currently learning C# in my University
-- 💞️ I am currently studying Computer Engineering and working in mining
 - 📫 How to reach me on Instagram @dportilla.dev
 
 <!---
